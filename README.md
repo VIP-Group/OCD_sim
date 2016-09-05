@@ -2,7 +2,7 @@
 Optimized Coordinate Descent Massive MU-MIMO simulator
 -------------------------------------------------------
 (c) 2016 Christoph Studer and Michael Wu 
-e-mails: studer@cornell.edu and miwu@xilinx.com 
+e-mail: studer@cornell.edu 
 -------------------------------------------------------
 
 # Important information:
@@ -30,4 +30,4 @@ which starts a simulation in a 128 BS antenna, 8 user massive MU-MIMO system wit
 
 We highly recommend you to execute the code step-by-step (using MATLAB?s debug mode) in order to get a detailed understanding of the simulator. 
 
-# Version 0.1 (September 5, 2016) ? studer@cornell - initial version for public access
+# Version 0.1 (September 5, 2016) - studer@cornell - initial version for public access

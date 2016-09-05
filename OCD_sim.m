@@ -1,8 +1,8 @@
 % =========================================================================
 % -- Optimized Coordinate Descent (ODC) Massive MU-MIMO Simulator
 % -------------------------------------------------------------------------
-% -- (c) 2016 Christoph Studer & Michael Wu
-% -- e-mails: studer@cornell.edu and miwu@xilinx.com
+% -- (c) 2016 Christoph Studer and Michael Wu
+% -- e-mail: studer@cornell.edu
 % -------------------------------------------------------------------------
 % -- If you use this simulator or parts of it, then you must cite our 
 % -- paper: Michael Wu, Chris Dick, Joseph R. Cavallaro, Christoph
