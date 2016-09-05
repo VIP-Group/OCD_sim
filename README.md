@@ -1,5 +1,5 @@
 -------------------------------------------------------
-Optimized Coordinate Descent Massive MU-MIMO simulator
+Optimized Coordinate Descent (OCD) Massive MU-MIMO Simulator
 -------------------------------------------------------
 (c) 2016 Christoph Studer and Michael Wu 
 e-mail: studer@cornell.edu 
@@ -16,9 +16,7 @@ If you are using the simulator (or parts of it) for a publication, then you MUST
   year={2016}
 }
 
-and clearly mention this in your paper (also, you may want to add the month, page numbers, issue number, etc. in the above BibTex entry). More information about our research can be found at 
-
-http://vip.ece.cornell.edu
+and clearly mention this in your paper (also, you may want to add the month, page numbers, issue number, etc. in the above BibTex entry). More information about our research can be found at: http://vip.ece.cornell.edu
 
 # How to start a simulation:
 
@@ -30,4 +28,4 @@ which starts a simulation in a 128 BS antenna, 8 user massive MU-MIMO system wit
 
 We highly recommend you to execute the code step-by-step (using MATLAB?s debug mode) in order to get a detailed understanding of the simulator. 
 
-# Version 0.1 (September 5, 2016) - studer@cornell - initial version for public access
+# Version 0.1 (September 5, 2016) - studer@cornell.edu - initial version for public access
