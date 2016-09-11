@@ -1,5 +1,5 @@
 % =========================================================================
-% -- Optimized Coordinate Descent (ODC) Massive MU-MIMO Simulator
+% -- Optimized Coordinate Descent (OCD) Massive MU-MIMO Simulator
 % -------------------------------------------------------------------------
 % -- (c) 2016 Christoph Studer and Michael Wu
 % -- e-mail: studer@cornell.edu
@@ -212,7 +212,7 @@ bithat = par.bits(idxhat,:);
 end
 
 
-%% Optimized Coordinate Descent (ODC) BOX version
+%% Optimized Coordinate Descent (OCD) BOX version
 function [idxhat,bithat] = OCDBOX(par,H,y)
 
 % -- initialization
@@ -262,7 +262,7 @@ si(idxi) = sign(si(idxi))*alpha;
 sproj = sr +1i*si;
 end
 
-%% Optimized Coordinate Descent (ODC) MMSE version
+%% Optimized Coordinate Descent (OCD) MMSE version
 function [idxhat,bithat] = OCDMMSE(par,H,y,N0)
 
 % -- initialization
